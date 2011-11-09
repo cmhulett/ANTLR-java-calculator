@@ -3,12 +3,12 @@ Running instructions:
 clone repo, download antlr executable jar into directory (built with antlr-3.2.jar)
 
 build with:
-*   java -cp antlr-3.2.jar org.antlr.Tool Calc.g
-*   javac -cp .;antlr-3.2.jar CalcParser.java CalcLexer.java
+`java -cp antlr-3.2.jar org.antlr.Tool Calc.g`
+`javac -cp .;antlr-3.2.jar CalcParser.java CalcLexer.java`
 
-run with Windows: java -cp .;antlr-3.2.jar CalcParser
+run with Windows: `java -cp .;antlr-3.2.jar CalcParser`
 
-run with Unix: java -cp .:antlr-3.2.jar CalcParser
+run with Unix: `java -cp .:antlr-3.2.jar CalcParser`
 
 
 Info:
