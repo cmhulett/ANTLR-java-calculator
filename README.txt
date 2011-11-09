@@ -33,6 +33,6 @@ avg(exp1,exp2,...,expn) evaluates the average of the argument expressions.
 sum(exp1,exp2,...,expn) evaluates the sum of the argument expressions.
 
 Screenshots:
-<p><img src="https://github.com/cmhulett/ANTLR-java-calculator/blob/master/ScreenShot1.png" alt="Screenshot" title="screenshot1"></p>
+![Screenshot (screenshot1)](https://github.com/cmhulett/ANTLR-java-calculator/blob/master/ScreenShot1.png "Screenshot1")
 
 <p><img src="https://github.com/cmhulett/ANTLR-java-calculator/blob/master/ScreenShot2.png" alt="Another Screenshot" title="screenshot2"></p>
