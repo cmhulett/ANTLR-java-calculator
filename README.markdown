@@ -22,8 +22,8 @@ and finished with lots of coffee.
 Features:
 ---------------------
 *   Non-significant whitespace
-*   Variables start with an upper or lower case letter follow by alphanumerics or underscores and are defined in the form: let <variable> = <expression>
-*   print <expression> prints the expression to the console instead of printing the evaluation.
+*   Variables start with an upper or lower case letter follow by alphanumerics or underscores and are defined in the form: let \<variable\> = \<expression\>
+*   print \<expression\> prints the expression to the console instead of printing the evaluation.
 *   +,-,*,/ supported and left associative.
 *   (,) supported to override operator precedence.
 *   Trig functions sin, cos, and tan are evaluated in radians,
