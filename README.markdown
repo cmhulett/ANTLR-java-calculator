@@ -26,8 +26,7 @@ Features:
 *   print \<expression\> prints the expression to the console instead of printing the evaluation.
 *   +,-,*,/ supported and left associative.
 *   (,) supported to override operator precedence.
-*   Trig functions sin, cos, and tan are evaluated in radians,
-*   e.g. sin(5) returns sine of 5 radians in radians.
+*   Trig functions sin, cos, and tan are evaluated in radians, e.g. sin(5) returns sine of 5 radians in radians.
 *   avg(exp1,exp2,...,expn) evaluates the average of the argument expressions.
 *   sum(exp1,exp2,...,expn) evaluates the sum of the argument expressions.
 
