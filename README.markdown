@@ -33,6 +33,7 @@ Features:
 *   sum(exp1,exp2,...,expn) evaluates the sum of the argument expressions.
 
 Screenshots:
+---------------------
 ![Screenshot1 (screenshot1)](https://github.com/cmhulett/ANTLR-java-calculator/raw/master/ScreenShot1.png "Screenshot1")
 
 ![Screenshot2 (screenshot2)](https://github.com/cmhulett/ANTLR-java-calculator/raw/master/ScreenShot2.png "Screenshot2")
